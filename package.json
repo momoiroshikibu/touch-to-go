@@ -1,0 +1,19 @@
+{
+  "name": "touch-to-go",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momoiroshikibu/touch-to-go.git"
+  },
+  "author": "momoiroshikibu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/momoiroshikibu/touch-to-go/issues"
+  },
+  "homepage": "https://github.com/momoiroshikibu/touch-to-go#readme"
+}
